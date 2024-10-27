@@ -4,8 +4,22 @@
  * 
  */
 
-// let myname ="Karna";
+let myname ="Karna";
 
-// let text = `Myname is ${myname}  `;
+let age  =11;
 
-// console.log(text);
+
+
+
+let number_1 = 10 ;
+
+let number_2 = 20;
+
+let total = number_1 +  number_2;
+
+console.log("Myname is  " + myname + " And my age is " +age);
+
+console.log(`Myname is ${myname} and my age is ${age}`);
+
+
+
